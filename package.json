@@ -1,0 +1,15 @@
+{
+  "name": "speed-trivia-race-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build client"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^10.5.0"
+  },
+  "devDependencies": {
+    "vite": "^6.4.1"
+  }
+}
